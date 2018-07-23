@@ -1,9 +1,3 @@
-CREATE DATABASE bugers_db;
+CREATE DATABASE burgers_db;
+USE burgers_db;
 
-USE bugers_db;
-
-CREATE TABLE burgers (
-    id PRIMARY KEY NOT NULL,
-    burger_name VARCHAR(100),
-    devoured BOOLEAN
-)

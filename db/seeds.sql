@@ -1,1 +1,1 @@
-`INSERT * INTO TABLE burgers VALUES (?)
+INSERT INTO burgers (burger_name) VALUES ("Mama Burger"), ("Big Mac"), ("Whopper");
